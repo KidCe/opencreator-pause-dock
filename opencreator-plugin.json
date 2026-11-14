@@ -1,0 +1,8 @@
+{
+  "id": "pause-dock",
+  "name": "Docked Pause and Resume",
+  "version": "0.1.0-rc.1",
+  "description": "Dock and cool the active tool during pause; reheat in the dock before resuming. Experimental; physical acceptance testing is pending.",
+  "klippy_extras": ["klippy/oc_pause_dock.py"],
+  "klipper_config": "config/pause-dock.cfg"
+}
